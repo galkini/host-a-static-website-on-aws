@@ -1,3 +1,5 @@
+![Alt text](/Host_a_Static_Website_on_AWS_mine.png)
+
 # Static Website Hosting on AWS
 
 This project demonstrates how to host a static HTML web application on AWS using various AWS services to ensure reliability, fault tolerance, and security. The project includes a reference architecture diagram and deployment scripts available in the [GitHub repository](https://github.com/galkini/host-a-static-website-on-aws).
